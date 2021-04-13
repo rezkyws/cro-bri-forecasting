@@ -7,7 +7,7 @@ The problem statement was like this :
 In the cash ratio optimization use case category, participants were asked to build a Machine Learning-based model that can provide accurate cash management recommendations so that it is expected to reduce operational costs and reduce the loss of BRI business opportunities in the use of cash."
 
 The task was :
-Using existing data, the predicted kas_kantor and kas_echannel values for the next 31 days (October 1, 2020 - October 31, 2020)
+Using existing data, predict the kas_kantor and kas_echannel values for the next 31 days (October 1, 2020 - October 31, 2020)
 
 And the metric evaluation is RMSLE (Root Mean Squared Logaritmic Error).
 
